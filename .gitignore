@@ -30,3 +30,7 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Local Go cache/temp dirs
+.gocache/
+.gotmp/
